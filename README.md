@@ -1,28 +1,28 @@
 # Aspiring Cloud Engineer
 
 ### Education
--Ngee Ann Polytechnic, Diploma in Early Childhood Education (_2017-2020)
--Pei Hwa Secondary School (_2013-2016)
--Chongzheng Primary School (_2007-2012)
+- Ngee Ann Polytechnic, Diploma in Early Childhood Education (_2017-2020)
+- Pei Hwa Secondary School (_2013-2016)
+- Chongzheng Primary School (_2007-2012)
 
 
 ## Experiences
 **GenSG X Microsoft Training Scholarship in Cloud & Devops
--Design cloud infrastructure that is secure, scalable, and highly available on cloud platforms
--Create and maintain CI/CD pipelines for code build and deployment
--Administer and troubleshoot Linux based systems
--Work collaboratively with software engineering to define infrastructure and deployment requirements
--Will be taking Microsoft Azure Fundamental Certification (September)
+- Design cloud infrastructure that is secure, scalable, and highly available on cloud platforms
+- Create and maintain CI/CD pipelines for code build and deployment
+- Administer and troubleshoot Linux based systems
+- Work collaboratively with software engineering to define infrastructure and deployment requirements
+- Will be taking Microsoft Azure Fundamental Certification (September)
 
 **Private Tutor
--Tutoring Subject: Math and Chinese
--Implementing different teaching techniques to guide children
--Giving them guidance on education and careers pathway
+- Tutoring Subject: Math and Chinese
+- Implementing different teaching techniques to guide children
+- Giving them guidance on education and careers pathway
 
 **Early Childhood Educator@PCF Sparkletots
--Plan and conducted developmentally appropriate lessons for children
--Write observation records to evaluate children's development accordingly
--Create teaching materials and aids according to children's needs
+- Plan and conducted developmentally appropriate lessons for children
+- Write observation records to evaluate children's development accordingly
+- Create teaching materials and aids according to children's needs
 
 ## Projects
 ### Love Calculator 
