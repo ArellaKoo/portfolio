@@ -1,5 +1,7 @@
 # Aspiring Cloud Engineer
 
+#### Technical Skills: Python(beginning level)
+
 ## Education
 - Ngee Ann Polytechnic, Diploma in Early Childhood Education (2017-2020)
 - Pei Hwa Secondary School (2013-2016)
