@@ -1,9 +1,9 @@
 # Aspiring Cloud Engineer
 
-### Education
-- Ngee Ann Polytechnic, Diploma in Early Childhood Education (_2017-2020)
-- Pei Hwa Secondary School (_2013-2016)
-- Chongzheng Primary School (_2007-2012)
+## Education
+- Ngee Ann Polytechnic, Diploma in Early Childhood Education (2017-2020)
+- Pei Hwa Secondary School (2013-2016)
+- Chongzheng Primary School (2007-2012)
 
 
 ## Experiences
